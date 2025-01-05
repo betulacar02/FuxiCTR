@@ -1,0 +1,1 @@
+python fuxictr/scripts/train.py --config configs/deepfm_dcn_config.yaml
